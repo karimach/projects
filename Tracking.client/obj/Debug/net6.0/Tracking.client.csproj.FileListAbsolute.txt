@@ -1,0 +1,15 @@
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.csproj.AssemblyReference.cache
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.AssemblyInfoInputs.cache
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.AssemblyInfo.cs
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.csproj.CoreCompileInputs.cache
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\bin\Debug\net6.0\Tracking.client.exe
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\bin\Debug\net6.0\Tracking.client.deps.json
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\bin\Debug\net6.0\Tracking.client.runtimeconfig.json
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\bin\Debug\net6.0\Tracking.client.dll
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\bin\Debug\net6.0\Tracking.client.pdb
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.dll
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\refint\Tracking.client.dll
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.pdb
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\Tracking.client.genruntimeconfig.cache
+C:\Users\karim113\Desktop\Youtube\Trackingapi\Tracking.client\obj\Debug\net6.0\ref\Tracking.client.dll
